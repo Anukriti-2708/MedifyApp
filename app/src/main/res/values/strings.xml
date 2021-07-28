@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Medify</string>
+
+
+    <string name="col1">State</string>
+    <string name="col4">District</string>
+    <string name="col2">Disease</string>
+    <string name="col3">No. of Patients</string>
+
+    <string name="row1disease">Coronavirus</string>
+    <string name="row1state">Maharashtra</string>
+    <string name="row1district">Nagpur</string>
+    <string name="row1patients">12,724</string>
+
+    <string name="row2disease">Cancer</string>
+    <string name="row2state">Mizoram</string>
+    <string name="row2district">Aizwal</string>
+    <string name="row2patients">269</string>
+
+    <string name="row3disease">Heart Disease</string>
+    <string name="row3state">Punjab</string>
+    <string name="row3district">Amritsar</string>
+    <string name="row3patients">200</string>
+
+    <string name="row4disease">Malnutrition</string>
+    <string name="row4state">Bihar</string>
+    <string name="row4district">Sitamarhi</string>
+    <string name="row4patients">180</string>
+
+    <string name="row5disease">Lung Disease</string>
+    <string name="row5state">Kerala</string>
+    <string name="row5district">Thiruvandrm</string>
+    <string name="row5patients">100</string>
+
+    <string name="row6disease">Lung Cancer</string>
+    <string name="row6state">Bihar</string>
+    <string name="row6district">Vaishali</string>
+    <string name="row6patients">99</string>
+
+    <string name="row7disease">Oral Cancer</string>
+    <string name="row7state">Bihar</string>
+    <string name="row7district">Vaishali</string>
+    <string name="row7patients">80</string>
+
+    <string name="row8disease">Diarrhoea</string>
+    <string name="row8state">Delhi</string>
+    <string name="row8district">Janakpuri</string>
+    <string name="row8patients">50</string>
+
+    <string name="row10disease">Typhoid</string>
+    <string name="row10state">Delhi</string>
+    <string name="row10district">Narela</string>
+    <string name="row10patients">48</string>
+
+    <string name="row11disease">Diabetes</string>
+    <string name="row11state">Delhi</string>
+    <string name="row11district">Narela</string>
+    <string name="row11patients">48</string>
+
+    <string name="row12disease">Anaemia</string>
+    <string name="row12state">Rajasthan</string>
+    <string name="row12district">Jhunjhunu</string>
+    <string name="row12patients">15</string>
+
+    <string name="row13disease">Skin Disease</string>
+    <string name="row13state">Uttar Pradesh</string>
+    <string name="row13district">Noida</string>
+    <string name="row13patients">10</string>
+
+
+    <string name="skip_btn">Skip</string>
+
+    <string name="next_btn">Next</string>
+
+    <string name="let_get_started">Get Started</string>
+
+</resources>
